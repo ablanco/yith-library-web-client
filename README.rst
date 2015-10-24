@@ -46,7 +46,8 @@ completed, you can execute the server with this command::
 
     pserve development.ini
 
-And then the web client will be available at http://localhost:6543/
+And then the web client will be available at http://desktopyith:4300/.
+You need to add desktopyith as a localhost alias in your /etc/hosts.
 
 Build the JavaScript bundle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,3 +1,9 @@
+Unreleased
+----------
+
+- Development configuration now defaults to http://desktopyith:4300.
+  Add desktopyith as a localhost alias in your /etc/hosts.
+
 1.1.2
 -----
 
